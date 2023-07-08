@@ -79,10 +79,10 @@ WSGI_APPLICATION = 'my_tennis_club.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'postgres',
-        'USER': 'masteruser',
-        'PASSWORD': '12345678',
-        'HOST': 'w3-django-project1.ccnktdfot2lp.us-east-2.rds.amazonaws.com',
+        'NAME': 'dbname_wllk',
+        'USER': 'root',
+        'PASSWORD': 'mNBwnGYrUW9TT8ITboJ68aKQVoqbmlPr',
+        'HOST': 'dpg-cikeondph6eg6kb1dl4g-a.ohio-postgres.render.com',
         'PORT': '5432'
     }
 }
